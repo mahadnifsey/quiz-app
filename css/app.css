@@ -1,5 +1,6 @@
 :root {
-    background-color: #ecf5ff;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
     font-size: 62.5%; /* 10px */
 }
 
@@ -124,3 +125,5 @@ input {
 input::placeholder {
     color: #aaa;
 }
+
+/* New Styling */
